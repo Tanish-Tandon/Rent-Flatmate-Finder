@@ -1,0 +1,14 @@
+# Node modules and environment variables
+node_modules/
+.env
+
+# Build artifacts
+dist/
+.next/
+out/
+build/
+
+# OS and Editor files
+.vscode/
+.idea/
+.DS_Store
