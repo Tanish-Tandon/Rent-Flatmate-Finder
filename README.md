@@ -8,8 +8,7 @@ An AI-powered room rental and flatmate matching platform where owners can post r
 
 > Deployment URLs will be updated once the application is hosted on Vercel and Render.
 
-Frontend: To Be Deployed
-Backend: To Be Deployed
+rent-flatmate-finder-theta.vercel.app
 
 ---
 
